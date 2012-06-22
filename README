@@ -25,8 +25,8 @@ GitHub é a forma de sincronizarmos os arquivos ainda em edição espalhados por
 diversos computadores. É uma forma de edição colaborada, você obtém uma cópia, 
 faz algumas mudança e elas ficam disponíveis junto com a original, podendo 
 qualquer um continuar a mesma linha de edição ou bifurcar em outro ponto. Na 
-ora de juntar duas alterações é rastreado algum conflito e as partes realocadas 
-automaticamente.
+hora de juntar as alterações é rastreado conflito possíveis e as partes 
+realocadas automaticamente.
 Mande suas alterações!
 
 Latex é uma forma de programar a aparência de uma publicação. Isso implica que 
