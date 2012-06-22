@@ -21,19 +21,19 @@ serão hospedados virtualmente e compartilhado. A qualquer momentos qualquer um
 pode abter uma cópia completa de todos os arquivos inacabados e compilar a 
 varsão beta teste.
 
-GitHub é a forma de sincornizarmos os arquivos ainda em edição espalhados por 
-diversos computadores. É uma forma de edição colaborada, você obtem uma cópia, 
+GitHub é a forma de sincronizarmos os arquivos ainda em edição espalhados por 
+diversos computadores. É uma forma de edição colaborada, você obtém uma cópia, 
 faz algumas mudança e elas ficam disponíveis junto com a original, podendo 
 qualquer um continuar a mesma linha de edição ou bifurcar em outro ponto. Na 
-ora de juntar duas alterações é rastreado algum conflico e as partes realocadas 
+ora de juntar duas alterações é rastreado algum conflito e as partes realocadas 
 automaticamente.
-Mante suas alterações!
+Mande suas alterações!
 
-Latex é uma forma de programar a aparencia de uma publicação. Isso implica que 
+Latex é uma forma de programar a aparência de uma publicação. Isso implica que 
 vai ter escrever códigos pra explicitar características do texto, não é só 
 selecionar e apertar um botão. Por outro lado a coleta de texto oriundo dos 
 lugares mais inóspitos e a correta padronização se transforma numa operação 
-mecância e simples.
+mecânica e simples.
 
 Os arquivos de configuração padronizada dos programas utilizados serão 
 compartilhados na pasta "cfg". Procure no próprio arquivo por comentário sobre 
